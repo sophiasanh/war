@@ -24,7 +24,7 @@
             /README.md 
 
 ###  Screenshot 
-![Screenshot](war/images/PNG-cards-1.3/Screen Shot 2019-12-19 at 11.21.18 PM.png) 
+[Screenshot](war/images/PNG-cards-1.3/Screen Shot 2019-12-19 at 11.21.18 PM.png) 
 
 ### Next Steps
 - Unable to design a score box. Will complete a score box design.
