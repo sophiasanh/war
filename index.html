@@ -1,0 +1,54 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script defer src="app.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <article class="wrapper"></article>
+    <title>War</title>
+</head>
+
+<body>
+    <div class="top-section">
+        <h1 id="title" class="glow block">GAME OF WAR</h1> 
+    </div>
+    <div class="section-2">
+        <div>
+            <h2 id="player-1-score" class="player">PLAYER 1 SCORE</h2>
+            <h2 id="cards-left-1" class="player">Cards Left</h2>
+        </div>
+        <h2 id="gameMessage" class="blinking">gameMessage</h2>
+        <div>
+            <h2 id='player-2-score' class="player">PLAYER 2 SCORE</h2>
+            <h2 id="cards-left-2" class="player">Cards Left</h2>
+        </div>
+    </div>    
+    <div class="section-3">
+        <div id="column-one" class="section">
+            <img class="card player-1-card" src="images/PNG-cards-1.3/ace_of_diamonds.png" alt="" />
+        </div>
+        <div id="column-two" class="section">
+            <img class='card' src="images/back_of_card.jpeg" alt="">
+            <div>
+                <button button type="button" class="btn btn-primary glow" id="deal">DEAL</button>
+            </div>
+        </div>
+        <div id="column-three" class="section">
+            <img class="card player-2-card" src="images/PNG-cards-1.3/jack_of_clubs2.png" alt="" />
+        </div>  
+    </div>      
+    <audio id="winSound">
+        <source src="sounds/495005__0ev__win-video-game-sound.wav" type="audio/wav">
+    </audio>
+    <audio id="warSound">
+        <source src="sounds/423115__ogsoundfx__guns-explosions-album-machine-gun-1.wav" type="audio/wav">
+    </audio>
+
+
+</body>
+
+
+</html>
