@@ -1,5 +1,9 @@
 # Game of War by Sophia Sanh
+<<<<<<< HEAD
 [You can play my game here!](https://sophiasanh.github.io/war)
+=======
+
+>>>>>>> bf2b99dd6b10143db666d519db21b41822ec41c9
 ### Description
 
 - "War" card game  
@@ -24,8 +28,13 @@
             /README.md 
 
 ###  Getting Started
+<<<<<<< HEAD
 ![](https://imgur.com/MNETbZZ)
 ![](https://imgur.com/ftlwzGf) 
+=======
+- <img src="https://imgur.com/MNETbZZ"> 
+- <img src="https://imgur.com/ftlwzGf">
+>>>>>>> bf2b99dd6b10143db666d519db21b41822ec41c9
 
 ### Next Steps
 - Unable to design a score box. Will complete a score box design.
